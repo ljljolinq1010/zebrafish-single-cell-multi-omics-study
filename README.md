@@ -1,6 +1,9 @@
 The repository contains scripts and data from the study: "Dissecting the Regulatory Logic of Specification and Differentiation during Vertebrate Embryogenesis"
 
 1. "scenicplus.ipynb" notebook is used to reconstruct gene regulatory networks using the SCENIC+ pipeline
+
+
+
    
 2. folder data:
 
@@ -19,6 +22,9 @@ The repository contains scripts and data from the study: "Dissecting the Regulat
    F. DeepDanio identified motifs and TFBSs for each of the 95 cell states saved in:
    
       https://drive.google.com/drive/folders/1kRCzl9ZrZpTpb-Jf1-dalV5FD6lVFTN1?usp=drive_link 
+
+
+
 
 3. folder DeepDanio:
 
