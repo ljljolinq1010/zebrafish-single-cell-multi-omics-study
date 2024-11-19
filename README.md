@@ -14,12 +14,14 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
    
    The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
 
-2. SCENIC+ tutorial: this tutorial provides step-by-step instructions on using scMultiome data to reconstruct gene regulatory networks with the SCENIC+ pipeline
+   Other related data, such as transcription factor motifs, can be found in the data folder: https://github.com/ljljolinq1010/zebrafish-single-cell-multi-omics-study/tree/main/data
+
+3. SCENIC+ tutorial: this tutorial provides step-by-step instructions on using scMultiome data to reconstruct gene regulatory networks with the SCENIC+ pipeline
 
    The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_SCENIC+.html
    
    
-3. DeepDanio tutorial: this tutorial provides step-by-step instructions on using DeepDanio to perform the following analyses:
+4. DeepDanio tutorial: this tutorial provides step-by-step instructions on using DeepDanio to perform the following analyses:
    
    A. Predict the chromatin accessibility of a given 500 bp DNA sequence across 95 different cell states during zebrafish embryogenesis
    
@@ -27,7 +29,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
 
    The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/DeepDanio/tutorial_DeepDanio.html
  
-4. Folder data:
+5. Folder data:
 
    A. eRegulon.txt: contains eRegulon information
    
@@ -45,7 +47,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
    
       https://drive.google.com/drive/folders/1kRCzl9ZrZpTpb-Jf1-dalV5FD6lVFTN1?usp=drive_link 
 
-5. Folder DeepDanio:
+6. Folder DeepDanio:
 
     A. It contains three DeepDanio models
    
