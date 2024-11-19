@@ -1,4 +1,4 @@
-The repository contains scripts and data from the study: "Dissecting the Regulatory Logic of Specification and Differentiation during Vertebrate Embryogenesis"
+The repository contains tutorials, scripts, and data from the study: "Dissecting the Regulatory Logic of Specification and Differentiation during Vertebrate Embryogenesis"
 
 1. scMultiome tutorial: this tutorial provides step-by-step instructions on how to use scMultiome data to perform the following analyses:
    
