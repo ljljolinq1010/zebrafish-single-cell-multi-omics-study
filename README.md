@@ -44,7 +44,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
    F. BSgenome.Drerio.UCSC.danRer11.Rdata:  the BSgenome package for zebrafish genome
    
    G. Seurat object of the nine-stage integrated single-cell multi-omic datasets saved in:
-   
+
       https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
 
    H. DeepDanio identified motifs and TFBSs for each of the 95 cell states saved in:
