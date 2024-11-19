@@ -47,7 +47,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
 
 5. Folder DeepDanio:
 
-    A. It contains three deep learning models
+    A. It contains three DeepDanio models
    
      DeepDanio/resnet_chr_split_0_w_mse_0.5_w_pearsonr_0.5_continued.h5
    
