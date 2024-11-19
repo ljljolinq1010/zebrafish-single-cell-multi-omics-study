@@ -4,15 +4,15 @@ The repository contains scripts and data from the study: "Dissecting the Regulat
    
    A. Identify putative enhancers for genes of interest
    
-   B. Plot gene expression, chromatin accessibility, and the association score for genes of interest
+   B. Plot gene expression, chromatin accessibility, and their association scores for genes of interest
    
    C. Idnetify the transcription factor binding site for the peaks of interest through motif scaning
    
    D. Motif entichment analysis for cell type specific peaks
 
-   The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_scMultiome.html
+The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_scMultiome.html
    
-   The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
+The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
 
    
 
