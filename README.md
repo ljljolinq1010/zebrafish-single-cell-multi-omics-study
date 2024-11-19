@@ -49,7 +49,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
 
    H. DeepDanio identified motifs and TFBSs for each of the 95 cell states saved in:
    
-      https://drive.google.com/drive/folders/1RIgyzs6ctxUXCNFglL8euVtN7mGL5cYP?usp=drive_link
+      https://drive.google.com/drive/folders/1RIgyzs6ctxUXCNFglL8euVtN7mGL5cYP
 
 5. Folder DeepDanio:
 
