@@ -1,11 +1,18 @@
 The repository contains scripts and data from the study: "Dissecting the Regulatory Logic of Specification and Differentiation during Vertebrate Embryogenesis"
 
-1. "scenicplus.ipynb" notebook is used to reconstruct gene regulatory networks using the SCENIC+ pipeline
+1. This tutorial provides step-by-step instructions on how to use scMultiome data to perform the following analyses:
+   (1) Identify putative enhancers for genes of interest
+   (2) Plot gene expression, chromatin accessibility, and the association score for genes of interest
+   (3) Idnetify the transcription factor binding site for the peaks of interest through motif scaning
+   (4) Motif entichment analysis for cell type specific peaks
+The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_scMultiome.html
+The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
+   
 
 
 
    
-2. folder data:
+3. folder data:
 
    A. eRegulon.txt: contains eRegulon information
    
@@ -26,7 +33,7 @@ The repository contains scripts and data from the study: "Dissecting the Regulat
 
 
 
-3. folder DeepDanio:
+4. folder DeepDanio:
 
     A. it contains three deep learning models
    
