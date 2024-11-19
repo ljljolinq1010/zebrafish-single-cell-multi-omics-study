@@ -10,9 +10,9 @@ The repository contains scripts and data from the study: "Dissecting the Regulat
    
    D. Motif entichment analysis for cell type specific peaks
 
-The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_scMultiome.html
+   The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_scMultiome.html
    
-The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
+   The scMultiome data is here: https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
 
    
 
