@@ -16,12 +16,12 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
 
    Other related data, such as transcription factor motifs, can be found in the data folder: https://github.com/ljljolinq1010/zebrafish-single-cell-multi-omics-study/tree/main/data
 
-3. SCENIC+ tutorial: this tutorial provides step-by-step instructions on using scMultiome data to reconstruct gene regulatory networks with the SCENIC+ pipeline
+2. SCENIC+ tutorial: this tutorial provides step-by-step instructions on using scMultiome data to reconstruct gene regulatory networks with the SCENIC+ pipeline
 
    The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/tutorial_SCENIC+.html
    
    
-4. DeepDanio tutorial: this tutorial provides step-by-step instructions on using DeepDanio to perform the following analyses:
+3. DeepDanio tutorial: this tutorial provides step-by-step instructions on using DeepDanio to perform the following analyses:
    
    A. Predict the chromatin accessibility of a given 500 bp DNA sequence across 95 different cell states during zebrafish embryogenesis
    
@@ -29,7 +29,7 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
 
    The tutorial is here: https://ljljolinq1010.github.io/zebrafish-single-cell-multi-omics-study/DeepDanio/tutorial_DeepDanio.html
  
-5. Folder data:
+4. Folder data:
 
    A. eRegulon.txt: contains eRegulon information
    
@@ -37,17 +37,21 @@ The repository contains tutorials, scripts, and data from the study: "Dissecting
    
    C. highToSomite_peaks.txt: contains the genome coordinates of all ATAC peaks
    
-   D. singleCell_meta_data.txt: contaisn the per-cell metadata information
+   D. singleCell_meta_data.txt: contains the per-cell metadata information
+
+   E. zf.daniocode.PFMatrix.rds: contains the position weight matrices of more than 900 transcription factors
+
+   F. BSgenome.Drerio.UCSC.danRer11.Rdata:  the BSgenome package for zebrafish genome
    
-   E. Seurat object of the nine-stage integrated single-cell multi-omic datasets saved in:
+   G. Seurat object of the nine-stage integrated single-cell multi-omic datasets saved in:
    
-      https://drive.google.com/drive/folders/1NTRCoIOviDVmsVhDiaPXpbdDqs40D7rz?usp=drive_link
-   
-   F. DeepDanio identified motifs and TFBSs for each of the 95 cell states saved in:
+      https://drive.google.com/file/d/1qQGUSENjQ0ohZDtvcnejS6XKS0H0HrCW/view?usp=drive_link
+
+   H. DeepDanio identified motifs and TFBSs for each of the 95 cell states saved in:
    
       https://drive.google.com/drive/folders/1kRCzl9ZrZpTpb-Jf1-dalV5FD6lVFTN1?usp=drive_link 
 
-6. Folder DeepDanio:
+5. Folder DeepDanio:
 
     A. It contains three DeepDanio models
    
